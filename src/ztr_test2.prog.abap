@@ -9,3 +9,4 @@ REPORT ZTR_TEST2.
 ** Bug Fix Branch code
 WRITE: /'version2'.
 WRITE : /'Version3'.  " INS TEST1
+WRITE:/'Version4'.
