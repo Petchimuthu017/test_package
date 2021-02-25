@@ -11,5 +11,6 @@ WRITE: /'version2'.
 WRITE : /'Version3'.  " INS TEST1
 WRITE:/'Version4'.
 WRITE:/'Version6'.
+WRITE: /'Version5'. " NEW INS
 
 INCLUDE ZTR_TEST2_TOP.
