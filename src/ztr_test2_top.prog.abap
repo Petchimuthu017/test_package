@@ -2,4 +2,5 @@
 *&  Include           ZTR_TEST2_TOP
 *&---------------------------------------------------------------------*
 
-DATA : lv_data1 TYPE char1.
+DATA : lv_data1 TYPE char1,
+       lv_data2 TYPE char1.
