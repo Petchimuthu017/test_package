@@ -10,3 +10,5 @@ REPORT ZTR_TEST2.
 WRITE: /'version2'.
 WRITE : /'Version3'.  " INS TEST1
 WRITE:/'Version4'.
+
+INCLUDE ZTR_TEST2_TOP.
